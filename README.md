@@ -21,7 +21,6 @@ Colombian studying in Berlin <img src="https://flagcdn.com/24x18/co.png" width="
 ### 📊 Stats
 
 ![Kolme’s GitHub stats](https://github-readme-stats.vercel.app/api?username=kolmme&show_icons=true&theme=github_dark&hide_border=true)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kolmme&layout=compact&theme=github_dark&hide_border=true)
 
 ### 📚 Currently learning
 
