@@ -6,13 +6,15 @@ Colombian studying in Berlin <img src="https://flagcdn.com/24x18/co.png" width="
 
 | Project | What it is |
 |---|---|
-| **Orbyte** | My personal AI: it only follows my instructions and recognizes only my voice; it uses AI and controls my PC with my permission. When I’m away from the PC, I talk to Orbyte through Telegram: alerts, instructions, tasks, reminders, etc. `Python` `Flask` `JavaScript` |
+| **[Orbyte AI](https://kolmme.github.io/orbyte.html)** | My personal AI: it only follows my instructions and recognizes only my voice; it uses AI and controls my PC with my permission. When I’m away from the PC, I talk to Orbyte through Telegram: alerts, instructions, tasks, reminders, etc. `Python` `Flask` `JavaScript` |
 | **Modo Carrera** | Football manager web game, still in progress: transfers, matches and seasons from Europe’s top leagues. `JavaScript` `HTML` `CSS` |
-| [kolmme.github.io](https://kolmme.github.io/portafolio.html) | My personal website: my CV turned into a web page. `HTML` `CSS` |
+| [kolmme.github.io](https://kolmme.github.io/) | My portfolio: projects, the Orbyte AI case study and how to reach me. `HTML` `CSS` `JavaScript` |
 
 ### ⭐ Orbyte in action
 
-![Orbyte in action](./orbyte.webp)
+![Orbyte AI in action](./orbyte.webp)
+
+➡️ [Read the Orbyte AI case study](https://kolmme.github.io/orbyte.html)
 
 ### 🛠️ Tech
 
@@ -27,4 +29,4 @@ Colombian studying in Berlin <img src="https://flagcdn.com/24x18/co.png" width="
 
 ### 📫 Where to find me
 
-🌐 [My portfolio & CV](https://kolmme.github.io/portafolio.html)
+🌐 [My portfolio](https://kolmme.github.io/)
